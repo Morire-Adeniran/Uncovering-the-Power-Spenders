@@ -34,7 +34,7 @@ Compared payment method performance
 * Line Chart: Monthly Sales Trends 
 * Bar Chart: Sales by Payment Method 
 
-![Dashboard](https://github.com/Morire-Adeniran/Uncovering-the-Power-Spenders/commit/7f0a6f1e1a89add4ea737ba80cbbd41c466cf433)
+![Dashboard](https://github.com/Morire-Adeniran/Uncovering-the-Power-Spenders/blob/main/_counterfeit_transactions%20-%20Copy%20-%20Dashboard.png)
 
 ### SKILLS
 Excel: Pivot tables, Scenario Analysis,Conditioning formatting, Dashboard 
