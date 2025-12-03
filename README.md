@@ -8,8 +8,9 @@ Which groups of people (by country and age) spend the most money, and how do the
 
 ### PROCESS
 1. **Collected the dataset**
+   [Here](https://github.com/Morire-Adeniran/Uncovering-the-Power-Spenders/blob/main/_counterfeit_transactions%20-%20Copy.xlsx)
 
-2. **Cleaned the data**
+3. **Cleaned the data**
 * Removed outliers from the transaction date column 
 * Handled duplicates
 
