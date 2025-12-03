@@ -23,7 +23,7 @@ Which groups of people (by country and age) spend the most money, and how do the
    
 * Calculated key metrics
   - Gross Sales=Price × Quantity
-  - Net Sales= Gross Sales - Disc
+  - Net Sales= Gross Sales - Discount
 * Identified top customers by net sales(From the age group and country)  
 * Computer month over month trends to identify seasonal patterns 
 Compared payment method performance 
@@ -42,13 +42,13 @@ Excel: Pivot tables, Scenario Analysis,Conditioning formatting, Dashboard
 
 
 ### KEY INSIGHT 
-1. 𝗧𝗼𝗽 𝗦𝗽𝗲𝗻𝗱𝗲𝗿𝘀 𝗯𝘆 𝗔𝗴𝗲 𝗮𝗻𝗱 𝗖𝗼𝘂𝗻𝘁𝗿𝘆:
+1. 𝗧𝗼𝗽 𝗦𝗽𝗲𝗻𝗱𝗲𝗿𝘀 𝗯𝘆 𝗔𝗴𝗲 𝗮𝗻𝗱 𝗖𝗼𝘂𝗻𝘁𝗿𝘆
 
 Young Adults contribute the highest share with 20.37% of total sales.
 
 The UK leads all countries with 10.7% of total revenue.
 
-2. 𝗣𝗮𝘆𝗺𝗲𝗻𝘁 𝗠𝗲𝘁𝗵𝗼𝗱 & 𝗗𝗶𝘀𝗰𝗼𝘂𝗻𝘁 𝗕𝗲𝗵𝗮𝘃𝗶𝗼𝘂𝗿:
+2. 𝗣𝗮𝘆𝗺𝗲𝗻𝘁 𝗠𝗲𝘁𝗵𝗼𝗱 & 𝗗𝗶𝘀𝗰𝗼𝘂𝗻𝘁 𝗕𝗲𝗵𝗮𝘃𝗶𝗼𝘂𝗿
 
 Young Adults and UK customers mostly use credit cards and often pay full price.
 
