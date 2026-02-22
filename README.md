@@ -1,4 +1,4 @@
-## UNCOVERING THE POWER SPENDER: A DEEP DIVE INTO CUSTOMER BEVIOUR ACROSS REGIONS AND AGE
+# UNCOVERING THE POWER SPENDER: A DEEP DIVE INTO CUSTOMER BEVIOUR ACROSS REGIONS AND AGE
 
 ### EXECUTIVE SUMMARY 
 This analysis explores customer spending across demographics, regions, and time periods. It identifies young adults and UK buyers as the top revenue contributors, with most transactions made at full price using credit cards. Sales peak in Q4 2024 and Q1 2025, highlighting key periods for targeted marketing and optimized payment experiences, while selective discounts could further boost spending.
